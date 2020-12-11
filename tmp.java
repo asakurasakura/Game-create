@@ -1,9 +1,9 @@
 class Hello{
-static public void main(String args[]){
+ static public void main(String args[]){
 
-System.out.println("Hello,World!");
+ System.out.println("Hello,World!");
 
-return 0;
+ return 0;
+ }
 }
-
 
